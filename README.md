@@ -1,4 +1,4 @@
-# Crop_Disease_Identification_And_Manageement_App
+# Crop_Disease_Identification_And_Management_App
 
 Crop Disease Identification and Management App
 Crop diseases pose a significant threat to global food security, impacting yield and quality. Timely detection and effective management of these diseases are critical for sustainable agriculture. Introducing our Crop Disease Identification and Management App, a powerful tool designed to revolutionize agricultural practices.
